@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "nombre": "Laptop HP Pavilion",
+        "desc": "Portátil con procesador Intel Core i5 y pantalla Full HD",
+        "precio": 800.0
+    },
+    {
+        "id": 2,
+        "nombre": "Samsung Galaxy S21",
+        "desc": "Teléfono inteligente con pantalla Dynamic AMOLED y cámara de 64 MP",
+        "precio": 900.0
+    },
+    {
+        "id": 3,
+        "nombre": "Impresora Epson EcoTank",
+        "desc": "Impresora multifuncional con sistema de tanques de tinta recargables",
+        "precio": 300.0
+    },
+    {
+        "id": 4,
+        "nombre": "Smart TV LG 55 pulgadas",
+        "desc": "Televisor LED con resolución 4K y sistema operativo webOS",
+        "precio": 1000.0
+    },
+    {
+        "id": 5,
+        "nombre": "MacBook Air",
+        "desc": "Portátil ultradelgado con chip M1 de Apple y batería de larga duración",
+        "precio": 1200.0
+    },
+    {
+        "id": 6,
+        "nombre": "Sony PlayStation 5",
+        "desc": "Consola de videojuegos con capacidad 4K y tecnología de ray tracing",
+        "precio": 500.0
+    },
+    {
+        "id": 7,
+        "nombre": "Cámara Canon EOS Rebel T7i",
+        "desc": "Cámara réflex digital con sensor CMOS de 24.2 MP y pantalla táctil",
+        "precio": 700.0
+    },
+    {
+        "id": 8,
+        "nombre": "Auriculares inalámbricos Apple AirPods Pro",
+        "desc": "Auriculares con cancelación de ruido y resistencia al agua",
+        "precio": 250.0
+    },
+    {
+        "id": 9,
+        "nombre": "Aspiradora Dyson V11",
+        "desc": "Aspiradora sin cable con succión potente y pantalla LCD",
+        "precio": 600.0
+    },
+    {
+        "id": 10,
+        "nombre": "Monitor gaming ASUS ROG Swift",
+        "desc": "Monitor de 27 pulgadas con resolución QHD y tasa de refresco de 165 Hz",
+        "precio": 800.0
+    },
+    {
+        "id": 11,
+        "nombre": "Xiaomi Mi 11",
+        "desc": "Teléfono inteligente con procesador Snapdragon 888 y cámara de 108 MP",
+        "precio": 700.0
+    },
+    {
+        "id": 12,
+        "nombre": "Teclado mecánico Logitech G Pro",
+        "desc": "Teclado para juegos con interruptores GX Blue y retroiluminación RGB",
+        "precio": 120.0
+    },
+    {
+        "id": 13,
+        "nombre": "Tablet Samsung Galaxy Tab S7",
+        "desc": "Tablet con pantalla Super AMOLED de 11 pulgadas y S Pen incluido",
+        "precio": 600.0
+    },
+    {
+        "id": 14,
+        "nombre": "Barra de sonido Sonos Beam",
+        "desc": "Barra de sonido compacta con asistentes de voz integrados y sonido envolvente",
+        "precio": 400.0
+    },
+    {
+        "id": 15,
+        "nombre": "Impresora 3D Creality Ender 3",
+        "desc": "Impresora 3D de nivel de entrada con área de impresión grande",
+        "precio": 250.0
+    },
+    {
+        "id": 16,
+        "nombre": "Cafetera Nespresso Vertuo",
+        "desc": "Máquina de café con tecnología de centrifugado para preparar café de alta calidad",
+        "precio": 150.0
+    },
+    {
+        "id": 17,
+        "nombre": "Robot aspirador Roomba i7+",
+        "desc": "Robot aspirador con sistema de limpieza avanzado y capacidad de autovaciado",
+        "precio": 800.0
+    },
+    {
+        "id": 18,
+        "nombre": "Altavoz Bluetooth JBL Charge 4",
+        "desc": "Altavoz portátil resistente al agua con batería de larga duración",
+        "precio": 120.0
+    },
+    {
+        "id": 19,
+        "nombre": "GoPro HERO9 Black",
+        "desc": "Cámara de acción con capacidad de grabación en 5K y estabilización HyperSmooth 3.0",
+        "precio": 400.0
+    },
+    {
+        "id": 20,
+        "nombre": "Nintendo Switch",
+        "desc": "Consola híbrida para juegos con modo portátil y conectividad en línea",
+        "precio": 300.0
+    }
+]

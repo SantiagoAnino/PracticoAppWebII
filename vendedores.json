@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan",
+        "apellido": "Gómez",
+        "puesto": "Vendedor"
+    },
+    {
+        "id": 2,
+        "nombre": "Ana",
+        "apellido": "Martínez",
+        "puesto": "Supervisor"
+    },
+    {
+        "id": 3,
+        "nombre": "Lucas",
+        "apellido": "Russo",
+        "puesto": "Vendedor"
+    },
+    {
+        "id": 4,
+        "nombre": "Sofía",
+        "apellido": "Ferrari",
+        "puesto": "vendedor"
+    },
+    {
+        "id": 5,
+        "nombre": "Diego",
+        "apellido": "López",
+        "puesto": "Supervisor"
+    },
+    {
+        "id": 6,
+        "nombre": "Valentina",
+        "apellido": "Romano",
+        "puesto": "vendedor"
+    },
+    {
+        "id": 7,
+        "nombre": "Matías",
+        "apellido": "Santos",
+        "puesto": "Vendedor"
+    },
+    {
+        "id": 8,
+        "nombre": "Isabella",
+        "apellido": "Sánchez",
+        "puesto": "supervisor"
+    },
+    {
+        "id": 9,
+        "nombre": "Miguel",
+        "apellido": "García",
+        "puesto": "Vendedor"
+    },
+    {
+        "id": 10,
+        "nombre": "Juliana",
+        "apellido": "Moreno",
+        "puesto": "vendedor"
+    },
+    {
+        "id": 11,
+        "nombre": "Luciano",
+        "apellido": "Pérez",
+        "puesto": "Supervisor"
+    },
+    {
+        "id": 12,
+        "nombre": "Catalina",
+        "apellido": "Ortega",
+        "puesto": "vendedor"
+    },
+    {
+        "id": 13,
+        "nombre": "Facundo",
+        "apellido": "Rodríguez",
+        "puesto": "Vendedor"
+    },
+    {
+        "id": 14,
+        "nombre": "Alessandra",
+        "apellido": "Napolitano",
+        "puesto": "supervisor"
+    },
+    {
+        "id": 15,
+        "nombre": "Nicolás",
+        "apellido": "Fernández",
+        "puesto": "Vendedor"
+    },
+    {
+        "id": 16,
+        "nombre": "Valeria",
+        "apellido": "Gentile",
+        "puesto": "vendedor"
+    },
+    {
+        "id": 17,
+        "nombre": "Gonzalo",
+        "apellido": "Martini",
+        "puesto": "Vendedor"
+    },
+    {
+        "id": 18,
+        "nombre": "Antonella",
+        "apellido": "Ricci",
+        "puesto": "supervisor"
+    },
+    {
+        "id": 19,
+        "nombre": "Federico",
+        "apellido": "De Luca",
+        "puesto": "Vendedor"
+    },
+    {
+        "id": 20,
+        "nombre": "Renata",
+        "apellido": "Vargas",
+        "puesto": "vendedor"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "id_producto": 5,
+        "id_vendedor": 3,
+        "fecha": "2022-07-15",
+        "total": 800.0
+    },
+    {
+        "id": 2,
+        "id_producto": 12,
+        "id_vendedor": 6,
+        "fecha": "2021-10-22",
+        "total": 900.0
+    },
+    {
+        "id": 3,
+        "id_producto": 8,
+        "id_vendedor": 1,
+        "fecha": "2020-05-03",
+        "total": 300.0
+    },
+    {
+        "id": 4,
+        "id_producto": 2,
+        "id_vendedor": 5,
+        "fecha": "2019-12-18",
+        "total": 1000.0
+    },
+    {
+        "id": 5,
+        "id_producto": 15,
+        "id_vendedor": 7,
+        "fecha": "2020-09-01",
+        "total": 1200.0
+    },
+    {
+        "id": 6,
+        "id_producto": 10,
+        "id_vendedor": 9,
+        "fecha": "2022-02-14",
+        "total": 500.0
+    },
+    {
+        "id": 7,
+        "id_producto": 17,
+        "id_vendedor": 11,
+        "fecha": "2018-11-30",
+        "total": 700.0
+    },
+    {
+        "id": 8,
+        "id_producto": 1,
+        "id_vendedor": 18,
+        "fecha": "2019-08-12",
+        "total": 250.0
+    },
+    {
+        "id": 9,
+        "id_producto": 6,
+        "id_vendedor": 13,
+        "fecha": "2022-06-07",
+        "total": 600.0
+    },
+    {
+        "id": 10,
+        "id_producto": 14,
+        "id_vendedor": 2,
+        "fecha": "2021-04-25",
+        "total": 800.0
+    },
+    {
+        "id": 11,
+        "id_producto": 20,
+        "id_vendedor": 15,
+        "fecha": "2020-01-03",
+        "total": 700.0
+    },
+    {
+        "id": 12,
+        "id_producto": 9,
+        "id_vendedor": 4,
+        "fecha": "2019-09-22",
+        "total": 120.0
+    },
+    {
+        "id": 13,
+        "id_producto": 13,
+        "id_vendedor": 20,
+        "fecha": "2022-11-11",
+        "total": 600.0
+    },
+    {
+        "id": 14,
+        "id_producto": 16,
+        "id_vendedor": 8,
+        "fecha": "2020-08-07",
+        "total": 400.0
+    },
+    {
+        "id": 15,
+        "id_producto": 11,
+        "id_vendedor": 16,
+        "fecha": "2021-03-16",
+        "total": 250.0
+    },
+    {
+        "id": 16,
+        "id_producto": 7,
+        "id_vendedor": 14,
+        "fecha": "2018-10-01",
+        "total": 150.0
+    },
+    {
+        "id": 17,
+        "id_producto": 3,
+        "id_vendedor": 10,
+        "fecha": "2019-05-19",
+        "total": 800.0
+    },
+    {
+        "id": 18,
+        "id_producto": 19,
+        "id_vendedor": 12,
+        "fecha": "2022-09-05",
+        "total": 120.0
+    },
+    {
+        "id": 19,
+        "id_producto": 4,
+        "id_vendedor": 19,
+        "fecha": "2021-07-10",
+        "total": 400.0
+    },
+    {
+        "id": 20,
+        "id_producto": 18,
+        "id_vendedor": 17,
+        "fecha": "2020-04-02",
+        "total": 300.0
+    }
+]
